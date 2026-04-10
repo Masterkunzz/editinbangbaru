@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" fill="none">
+  <rect x="12" y="12" width="26" height="26" rx="4" stroke="white" stroke-width="2" fill="none"/>
+  <circle cx="25" cy="25" r="5" fill="white"/>
+  <line x1="30" y1="20" x2="38" y2="12" stroke="white" stroke-width="2"/>
+  <text x="48" y="30" fill="white" font-family="Inter, sans-serif" font-weight="700" font-size="16">TechVibe</text>
+</svg>

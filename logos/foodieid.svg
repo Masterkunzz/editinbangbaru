@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" fill="none">
+  <circle cx="25" cy="28" r="14" stroke="white" stroke-width="2" fill="none"/>
+  <line x1="25" y1="14" x2="25" y2="22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="25" cy="28" r="3" fill="white"/>
+  <text x="46" y="32" fill="white" font-family="Inter, sans-serif" font-weight="700" font-size="16">FoodieID</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" fill="none">
+  <path d="M25 10 C25 10 15 25 25 40 C35 25 25 10 25 10Z" stroke="white" stroke-width="2" fill="none"/>
+  <circle cx="25" cy="26" r="3" fill="white"/>
+  <text x="42" y="30" fill="white" font-family="Inter, sans-serif" font-weight="700" font-size="16">SkinGlow</text>
+</svg>
