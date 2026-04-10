@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://editinbang.my.id/sitemap.xml
+Sitemap: https://editinbang.my.id/sitemap1.xml
